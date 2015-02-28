@@ -6,7 +6,7 @@ Installation
 ------------
 The simplest way to use AFNetworking-PromiseKit in your application is with [CocoaPods](http://cocoapods.org). See the ["Getting Started" guide for more information](http://guides.cocoapods.org/using/using-cocoapods.html).
 
-#### Podfile
+#### <del>Podfile</del> (never submitted, please use https://github.com/csotiriou/AFNetworking-PromiseKit/)
 
 ```ruby
 platform :ios, '7.0'
